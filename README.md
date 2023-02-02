@@ -1,2 +1,2 @@
 # client-crud
-<p><b>Documentação:</b> encurtador.com.br/afkmX</p>
+<p><b>Documentação:</b> www.encurtador.com.br/afkmX</p>
